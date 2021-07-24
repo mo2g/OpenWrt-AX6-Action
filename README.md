@@ -3,10 +3,24 @@
 
 #IPv6
 
-#简单mesh
+~~#简单mesh~~
 
 #Turbo ACC
 
 #Wireguard
 
-#luci-app-udpxy
+#udpxy
+
+#NSS
+
+#DDNS
+
+#UPNP
+
+#KMS
+
+#PPTP Server
+
+#Wifi Schedular
+
+#EtherWake
