@@ -11,7 +11,9 @@
 
 #udpxy
 
-#NSS
+~~#NSS~~
+
+软件NAT加速
 
 #DDNS
 
@@ -19,7 +21,7 @@
 
 #KMS
 
-#PPTP Server
+~~#PPTP Server~~
 
 #Wifi Schedular
 
